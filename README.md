@@ -120,3 +120,4 @@ flowchart TD
     G --> H[Option to contact or request adoption]  
     H --> I[Backend handles request / adoption process]  
     I --> J[Update pet status / notify admin] 
+![interface-5](https://github.com/user-attachments/assets/6f3f2516-f5c7-44b1-b0a7-c603c6c3a056)
